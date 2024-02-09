@@ -1,4 +1,4 @@
-# DropsHub-webclient
+# DropsHub
 
 ### Project parts:
 - [dropshub-data](https://github.com/TawerV10/dropshub-data)
